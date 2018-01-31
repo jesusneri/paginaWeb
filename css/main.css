@@ -1,0 +1,13 @@
+body {
+    background-image: url("https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-161242.jpg");
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+    background-attachment: scroll;
+}
+
+h1 {
+    font-family: 'Catamaran', sans-serif;
+    font-size: 48px;
+    }
+
