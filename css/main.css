@@ -8,9 +8,14 @@ body {
 h1 {
     font-family: 'Catamaran', sans-serif;
     font-size: 48px;
+    text-align: center
     }
 
 h2{
     
 }
 
+p{
+    text-align: justify
+
+}
